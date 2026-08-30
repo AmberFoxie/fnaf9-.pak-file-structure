@@ -1,0 +1,6 @@
+			Realistic_Asphalt_Concrete (folder)
+				Textures (folder)
+					Diffuse (folder)
+						concrete_diff_02 (texture2D file)
+					Specular (folder)
+						concrete_spec_02 (texture2D file)

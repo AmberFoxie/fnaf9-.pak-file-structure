@@ -1,0 +1,12 @@
+.pak/fnaf9/content:
+	fnaf9 (folder)
+		Content (folder)
+			CutsceneLevelSequence (folder)
+				AtriumSequenceEditor (LevelSequence file)
+				Default__SequenceDirector_C (SequenceDirector_C file)
+				Default__SequenceDirector_C (SequenceDirector_C file)
+				Kitchen_LevelSequence (LevelSequence file)
+				Kitchen_LevelSequence_01 (LevelSequence file)
+				LaserTag_LevelSequence (LevelSequence file)
+				SequenceDirector_C (blueprintgeneratedclass file)
+				SequenceDirector_C (blueprintgeneratedclass file)

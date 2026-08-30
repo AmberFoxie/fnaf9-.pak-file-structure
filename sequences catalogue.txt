@@ -1,0 +1,5 @@
+			Sequences (folder)
+				Daycare (folder)
+					Default__SequenceDirector_C (SequenceDirector_C file)
+					PlayAreaDoorsSequence (LevelSequence file)
+					SequenceDirector_C (blueprintgeneratedclass file)
